@@ -1,6 +1,7 @@
 # 2dolist-app
 A simple to-do list appication created with **Vue.js**(JavaScript Framework) and **Express**(back-end).
-<br>
+
+## Demo
 Try it live on http://chan-2dolist.herokuapp.com (hosted on Heroku)
 
 *Both Node.js and NPM should be installed in advance prior to the following instructions.*
@@ -9,12 +10,12 @@ Try it live on http://chan-2dolist.herokuapp.com (hosted on Heroku)
 npm install
 ```
 
-## Serve on localhost:8080
+## Serve on localhost:8080 with hot reload
 ```
 npm run serve
 ```
 
-## Compiles and minifies for production
+## Compiles and build for production with minification
 ```
 npm run build
 ```
