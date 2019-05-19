@@ -1,4 +1,4 @@
-# 2dolist
+# 2dolist-app
 
 ## Project setup
 ```
