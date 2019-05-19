@@ -25,7 +25,12 @@ npm run build
 node server.js
 ```
 
-## Screenshots
+### Fuctions
+- Add and remove as many todos as you want
+- Edit each todo on separated window popup
+- Setting a duedate for each todo is optional
+- It shows notification for overdue todos every 5 seconds
+- Turn on and off overdue notification with toggle-style button
 
 ### Dependencies used in this app
 - [express](https://www.npmjs.com/package/express)
@@ -38,4 +43,4 @@ node server.js
 ### Environment
 - Ubuntu 18.04
 - Google Chrome 
-- 
+- Heroku
