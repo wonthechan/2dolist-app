@@ -7,12 +7,12 @@ Try it live on http://chan-2dolist.herokuapp.com (hosted on Heroku)
 npm install
 ```
 
-### Serve on localhost:8080
+## Serve on localhost:8080
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+## Compiles and minifies for production
 ```
 npm run build
 ```
