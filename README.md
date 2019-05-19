@@ -2,12 +2,12 @@
 A simple to-do list appication created with **Vue.js**(front-end) and **Express**(back-end).
 <br>
 Try it live on http://chan-2dolist.herokuapp.com (hosted on Heroku)
-## Project setup
+## Install all dependencies
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Serve on localhost:8080
 ```
 npm run serve
 ```
