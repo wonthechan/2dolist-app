@@ -1,5 +1,5 @@
 # 2dolist-app
-A simple to-do list appication created with **Vue.js**(front-end) and **Express**(back-end).
+A simple to-do list appication created with **Vue.js**(JavaScript Framework) and **Express**(back-end).
 <br>
 Try it live on http://chan-2dolist.herokuapp.com (hosted on Heroku)
 
@@ -31,3 +31,8 @@ node server.js
 - [vue-js-toggle-button](https://www.npmjs.com/package/vue-js-toggle-button)
 - [vue-notification](https://www.npmjs.com/package/vue-notification)
 - [vuejs-datepicker](https://www.npmjs.com/package/vuejs-datepicker)
+
+### Environment
+- Ubuntu 18.04
+- Google Chrome 
+- 
