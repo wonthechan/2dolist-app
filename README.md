@@ -25,12 +25,13 @@ npm run build
 node server.js
 ```
 
-### Functions
-- Add and remove as many todos as you want
-- Edit each todo on separated window popup
-- Setting a duedate for each todo is optional
-- It shows notification for overdue todos every 5 seconds
-- Turn on and off overdue notification with toggle-style button
+### Features
+- Add and remove as many todos as you want.
+- Edit each todo on separated window popup.
+- Setting a duedate for each todo is optional.
+- It shows notification for overdue todos every 5 seconds.
+- Turn on and off overdue notification with toggle-style button.
+- All todos are stored in localStorage, so they are not gone even if you close the app.
 
 ### Dependencies used in this app
 - [express](https://www.npmjs.com/package/express)
