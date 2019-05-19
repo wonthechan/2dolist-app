@@ -25,7 +25,7 @@ npm run build
 node server.js
 ```
 
-### Fuctions
+### Functions
 - Add and remove as many todos as you want
 - Edit each todo on separated window popup
 - Setting a duedate for each todo is optional
