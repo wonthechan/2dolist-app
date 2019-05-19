@@ -3,7 +3,7 @@ A simple to-do list appication created with **Vue.js**(JavaScript Framework) and
 
 ## Demo
 Try it live on http://chan-2dolist.herokuapp.com (hosted on Heroku)
-[screenshot](./screenshot-2dolist.jpg)
+![screenshot](./screenshot-2dolist.jpg)
 *Both Node.js and NPM should be installed in advance prior to the following instructions.*
 ## Install all dependencies
 ```
