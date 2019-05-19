@@ -16,6 +16,12 @@ npm run serve
 ```
 npm run build
 ```
+
+## Serve on localhost:5000 using Express(Node.js)
+```
+node server.js
+```
+
 ### Dependencies used in this app
 - [express](https://www.npmjs.com/package/express)
 - [uuid](https://www.npmjs.com/package/uuid)
