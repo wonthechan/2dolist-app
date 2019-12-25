@@ -1,5 +1,5 @@
 # 2dolist-app
-A simple to-do list appication created with **Vue.js**(JavaScript Framework) and **Express**(back-end).
+A simple to-do list application created with **Vue.js**(JavaScript Framework) and **Express**(back-end).
 
 ## Demo
 Try it live on http://chan-2dolist.herokuapp.com (hosted on Heroku)
